@@ -1,7 +1,12 @@
-![Header](./Header_Ags.png)
-
-<!--
-
+<h1 align="center">
+  <img src =
+       "https://github.com/Ags-S/Ags-S/blob/main/Header_Ags.png" width = "950" height = "250">
+</h1>
+<p align = "center">
+  <a href = "mailto:agnieszka.szewczyk1993@gmail.com">
+<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align = center"> </a>
+<a href = "https://www.linkedin.com/in/aga-k-szewczyk">
+<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align = center"> </a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
