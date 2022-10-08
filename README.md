@@ -41,5 +41,4 @@ Welcome to my Github!
 To see all the other badges are [here](https://www.credly.com/users/agnieszka-szewczyk.e1bba1e1/badges)
 
 <!--START_SECTION:badges--
-[![Data Analytics Essentials](https://images.credly.com/size/340x340/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png)](https://www.credly.com/badges/032c0013-1c93-4298-a05a-6a9bea883912 "Data Analytics Essentials")
 <!--END_SECTION:badges-->
