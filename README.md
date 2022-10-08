@@ -31,7 +31,7 @@ Welcome to my Github!
       <td> JavaScript </td>
     </tr> 
   <tr>
-    <td> </td>
+    <td> HTML </td>
   <td>GoogleAppScript</td>
   </tr>
   </table>
