@@ -7,7 +7,7 @@
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align = center"> </a>
 </p>
 <h1 align = "left">
-Welcome to my Github!
+Welcome to my Github! :octocat:
   </h1>
   <p align = "left">
     My name is Aga, I'm from Poland. I live in England and I work as a team leader asssistant. 
@@ -15,7 +15,7 @@ Welcome to my Github!
   </br>
   </p>
 <h2 align = "left">
-  Goals:
+  :space_invader: Goals:
   </h2>
   <table>
   <tr>
@@ -35,7 +35,7 @@ Welcome to my Github!
   <td>GoogleAppScript</td>
   </tr>
   </table>
-<h2> My Certificates: </h2>
+<h2>:books: My Certificates:</h2>
 <p align = "center">
   <a href = "https://www.credly.com/badges/032c0013-1c93-4298-a05a-6a9bea883912">
 <img src = "https://images.credly.com/size/160x160/images/7d59a314-d9bd-4ed9-80dd-9f3af94d77d1/Data_Analytics_Essentials.png" align = center"> </a>
