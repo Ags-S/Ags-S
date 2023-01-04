@@ -24,10 +24,10 @@ Welcome to my Github! :octocat:
   </tr>
     <tr>  
       <td> R </td>
-      <td> SQL </td>
+      <td> CSS </td>
   </tr>
       <tr>
-      <td> CSS </td>
+      <td> SQL </td>
       <td> JavaScript </td>
     </tr> 
   <tr>
