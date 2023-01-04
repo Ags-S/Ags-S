@@ -23,7 +23,7 @@ Welcome to my Github! :octocat:
     <th> In plans: </th>
   </tr>
     <tr>  
-      <td> Python - basics</td>
+      <td> R </td>
       <td> SQL </td>
   </tr>
       <tr>
